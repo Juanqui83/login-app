@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/login-app/static/js/main.c5c6f08e.js",
+    "index.html": "/login-app/index.html",
+    "main.c5c6f08e.js.map": "/login-app/static/js/main.c5c6f08e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c5c6f08e.js"
+  ]
+}
